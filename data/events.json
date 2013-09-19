@@ -7,13 +7,23 @@
     "decryption",
     "deletion",
     "digital signature validation",
+
     "fixity check",
+    "fixity check",
+    "fixity check",
+    "fixity check",
+
     "ingestion",
     "message digest calculation",
     "migration",
     "normalization",
     "replication",
     "validation",
+
+    "virus check",
+    "virus check",
+    "virus check",
+    "virus check",
     "virus check",
 
     "identifier assignment",
@@ -21,6 +31,15 @@
     "unquarantine",
     "upacking",
     "name cleanup",
+
     "format identification",
-    "validation"
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification",
+    "format identification"
 ]

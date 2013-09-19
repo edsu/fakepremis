@@ -1,2724 +1,3655 @@
 [
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect help file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect application resource library", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect block file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect column block", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect dictionary file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect dictionary rules file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect external spell code module file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect external spell dictionary file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect Graphics screen driver file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect hyphenation code module file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect hyphenation data module file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect hyphenation lex module", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect installation information file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect keyboard definition file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect macro data file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect macro resource file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect printer Q codes (used by VAX/DG)", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect rectangular block file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect spell code module rules file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect spell code module word list", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect thesarus file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Wordperfect VAX keyboard definition file", 
     "fid": "000001008-00-0000001"
   }, 
   {
-    "ext": "all", 
+    "ext": [
+      "all"
+    ], 
     "mime": "", 
     "description": "Wordperfect printer resource file", 
     "fid": "000001008-00-0000ALL"
   }, 
   {
-    "ext": "con", 
+    "ext": [
+      "con"
+    ], 
     "mime": "", 
     "description": "Microsoft Animated cursor, little-endian", 
     "fid": "000001001-00-0000CON"
   }, 
   {
-    "ext": "con", 
+    "ext": [
+      "con"
+    ], 
     "mime": "", 
     "description": "Microsoft Animated cursor, big-endian", 
     "fid": "000001001-00-0000CON"
   }, 
   {
-    "ext": "doc", 
+    "ext": [
+      "doc"
+    ], 
     "mime": "", 
     "description": "Macintosh Wordperfect document file", 
     "fid": "000001008-00-0000DOC"
   }, 
   {
-    "ext": "doc", 
+    "ext": [
+      "doc"
+    ], 
     "mime": "", 
     "description": "VAX Wordperfect document file", 
     "fid": "000001008-00-0000DOC"
   }, 
   {
-    "ext": "drs", 
+    "ext": [
+      "drs"
+    ], 
     "mime": "", 
     "description": "Wordperfect display resource file", 
     "fid": "000001008-00-0000DRS"
   }, 
   {
-    "ext": "fil", 
+    "ext": [
+      "fil"
+    ], 
     "mime": "", 
     "description": "Wordperfect overlay file", 
     "fid": "000001008-00-0000FIL"
   }, 
   {
-    "ext": "grp", 
+    "ext": [
+      "grp"
+    ], 
     "mime": "", 
     "description": "Microsoft windows group file", 
     "fid": "000001001-00-0000GRP"
   }, 
   {
-    "ext": "info", 
+    "ext": [
+      "info"
+    ], 
     "mime": "", 
     "description": "Amiga shortcut / icon file", 
     "fid": "000001007-00-000INFO"
   }, 
   {
-    "ext": "ins", 
+    "ext": [
+      "ins"
+    ], 
     "mime": "", 
     "description": "Wordperfect installation information file", 
     "fid": "000001008-00-0000INS"
   }, 
   {
-    "ext": "lnk", 
+    "ext": [
+      "lnk"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows shortcut file", 
     "fid": "000001001-00-0000LNK"
   }, 
   {
-    "ext": "prs", 
+    "ext": [
+      "prs"
+    ], 
     "mime": "", 
     "description": "Wordperfect printer resource file", 
     "fid": "000001008-00-0000PRS"
   }, 
   {
-    "ext": "qrs", 
+    "ext": [
+      "qrs"
+    ], 
     "mime": "", 
     "description": "Wordperfect 5.1 equation resource file", 
     "fid": "000001008-00-0000QRS"
   }, 
   {
-    "ext": "set", 
+    "ext": [
+      "set"
+    ], 
     "mime": "", 
     "description": "Wordperfect setup data", 
     "fid": "000001008-00-0000SET"
   }, 
   {
-    "ext": "pal,riff", 
+    "ext": [
+      "pal", 
+      "riff"
+    ], 
     "mime": "", 
     "description": "Microsoft Palette, little-endian", 
     "fid": "000001001-0E-0000PAL"
   }, 
   {
-    "ext": "pal,rifx", 
+    "ext": [
+      "pal", 
+      "rifx"
+    ], 
     "mime": "", 
     "description": "Microsoft Palette, big-endian", 
     "fid": "000001001-0E-0000PAL"
   }, 
   {
-    "ext": "adf", 
+    "ext": [
+      "adf"
+    ], 
     "mime": "", 
     "description": "AmigaOS File system", 
     "fid": "000001007-0F-0000ADF"
   }, 
   {
-    "ext": ",library", 
+    "ext": [
+      "", 
+      "library"
+    ], 
     "mime": "", 
     "description": "Amiga Classic executable file (680x0 family)", 
     "fid": "000001007-10-LIBRARY"
   }, 
   {
-    "ext": ",o,so,out", 
+    "ext": [
+      "", 
+      "o", 
+      "so", 
+      "out"
+    ], 
     "mime": "", 
     "description": "Executable linkable file (ELF)", 
     "fid": "000000003-10-000000O"
   }, 
   {
-    "ext": ",o,so,out", 
+    "ext": [
+      "", 
+      "o", 
+      "so", 
+      "out"
+    ], 
     "mime": "", 
     "description": "Executable linkable file (ELF)", 
     "fid": "000000003-10-000000O"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "New executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "New executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows 3.x New Executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows 3.x New Executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "IBM OS/2 New Executable file", 
     "fid": "000001009-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "IBM OS/2 New Executable file", 
     "fid": "000001009-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows NT Portable Executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll", 
+    "ext": [
+      "exe", 
+      "dll"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows NT Portable Executable file", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll,drv", 
+    "ext": [
+      "exe", 
+      "dll", 
+      "drv"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows Linear executable", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll,drv", 
+    "ext": [
+      "exe", 
+      "dll", 
+      "drv"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows Linear executable", 
     "fid": "000001001-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll,drv", 
+    "ext": [
+      "exe", 
+      "dll", 
+      "drv"
+    ], 
     "mime": "", 
     "description": "OS/2 Linear executable", 
     "fid": "000001009-10-0000EXE"
   }, 
   {
-    "ext": "exe,dll,drv", 
+    "ext": [
+      "exe", 
+      "dll", 
+      "drv"
+    ], 
     "mime": "", 
     "description": "OS/2 Linear executable", 
     "fid": "000001009-10-0000EXE"
   }, 
   {
-    "ext": "tlb", 
+    "ext": [
+      "tlb"
+    ], 
     "mime": "", 
     "description": "Microsoft component type library", 
     "fid": "000001001-10-0000TLB"
   }, 
   {
-    "ext": "ttp,gem,prg", 
+    "ext": [
+      "ttp", 
+      "gem", 
+      "prg"
+    ], 
     "mime": "", 
     "description": "Atari MiNT executable/object file", 
     "fid": "000001006-10-0000TTP"
   }, 
   {
-    "ext": "ttp,gem,prg", 
+    "ext": [
+      "ttp", 
+      "gem", 
+      "prg"
+    ], 
     "mime": "", 
     "description": "Atari TOS executable/object file", 
     "fid": "000001006-10-0000TTP"
   }, 
   {
-    "ext": "vpi", 
+    "ext": [
+      "vpi"
+    ], 
     "mime": "", 
     "description": "Virtual pascal unit file", 
     "fid": "000000000-10-0000VPI"
   }, 
   {
-    "ext": "class", 
+    "ext": [
+      "class"
+    ], 
     "mime": "", 
     "description": "Javal virtual machine class file", 
     "fid": "000001011-11-00CLASS"
   }, 
   {
-    "ext": "dcp", 
+    "ext": [
+      "dcp"
+    ], 
     "mime": "", 
     "description": "Borland Delphi compiled package code file", 
     "fid": "000001005-11-0000DCP"
   }, 
   {
-    "ext": "dcu", 
+    "ext": [
+      "dcu"
+    ], 
     "mime": "", 
     "description": "Borland Delphi code unit file", 
     "fid": "000001005-11-0000DCU"
   }, 
   {
-    "ext": "tpu", 
+    "ext": [
+      "tpu"
+    ], 
     "mime": "", 
     "description": "Turbo Pascal 6.0 code unit file", 
     "fid": "000001005-11-0000TPU"
   }, 
   {
-    "ext": "tpu,tpp,tpw", 
+    "ext": [
+      "tpu", 
+      "tpp", 
+      "tpw"
+    ], 
     "mime": "", 
     "description": "Borland Pascal 7.0 code unit file", 
     "fid": "000001005-11-0000TPU"
   }, 
   {
-    "ext": "ibk", 
+    "ext": [
+      "ibk"
+    ], 
     "mime": "", 
     "description": "Creative Labs FM instrument bank file", 
     "fid": "000001013-20-0000IBK"
   }, 
   {
-    "ext": "idf", 
+    "ext": [
+      "idf"
+    ], 
     "mime": "", 
     "description": "Microsoft instrument definition file, little-endian", 
     "fid": "000001001-20-0000IDF"
   }, 
   {
-    "ext": "idf", 
+    "ext": [
+      "idf"
+    ], 
     "mime": "", 
     "description": "Microsoft instrument definition file, big-endian", 
     "fid": "000001001-20-0000IDF"
   }, 
   {
-    "ext": "ist", 
+    "ext": [
+      "ist"
+    ], 
     "mime": "", 
     "description": "Digitrakker Instrument file", 
     "fid": "000100088-20-0000IST"
   }, 
   {
-    "ext": "iti", 
+    "ext": [
+      "iti"
+    ], 
     "mime": "", 
     "description": "Impulse tracker instrument file", 
     "fid": "000100032-20-0000ITI"
   }, 
   {
-    "ext": "mti", 
+    "ext": [
+      "mti"
+    ], 
     "mime": "", 
     "description": "Madtracker instrument file", 
     "fid": "000100091-20-0000MTI"
   }, 
   {
-    "ext": "pat", 
+    "ext": [
+      "pat"
+    ], 
     "mime": "", 
     "description": "Gravis Ultrasound Patch (old instrument data)", 
     "fid": "000001018-20-0000PAT"
   }, 
   {
-    "ext": "pat", 
+    "ext": [
+      "pat"
+    ], 
     "mime": "", 
     "description": "Gravis Ultrasound Patch (instrument data)", 
     "fid": "000001018-20-0000PAT"
   }, 
   {
-    "ext": "sbi", 
+    "ext": [
+      "sbi"
+    ], 
     "mime": "", 
     "description": "Creative Labs FM instrument data file", 
     "fid": "000001013-20-0000SBI"
   }, 
   {
-    "ext": "sid", 
+    "ext": [
+      "sid"
+    ], 
     "mime": "", 
     "description": "SIDPlayer music file", 
     "fid": "000000000-20-0000SID"
   }, 
   {
-    "ext": "xi", 
+    "ext": [
+      "xi"
+    ], 
     "mime": "", 
     "description": "FastTracker II instrument file", 
     "fid": "000100026-20-00000XI"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "MIDI music file, little-endian", 
     "fid": "000001001-21-0000000"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "MIDI music file, big-endian", 
     "fid": "000001001-21-0000000"
   }, 
   {
-    "ext": "ahx", 
+    "ext": [
+      "ahx"
+    ], 
     "mime": "", 
     "description": "AHX module music file", 
     "fid": "000100029-21-0000AHX"
   }, 
   {
-    "ext": "ams", 
+    "ext": [
+      "ams"
+    ], 
     "mime": "", 
     "description": "Velvet Studio module music file", 
     "fid": "000001276-21-0000AMS"
   }, 
   {
-    "ext": "avr", 
+    "ext": [
+      "avr"
+    ], 
     "mime": "", 
     "description": "Audio visual research audio file", 
     "fid": "000001301-21-0000AVR"
   }, 
   {
-    "ext": "cmf", 
+    "ext": [
+      "cmf"
+    ], 
     "mime": "", 
     "description": "Creative Labs music file", 
     "fid": "000001013-21-0000CMF"
   }, 
   {
-    "ext": "digi", 
+    "ext": [
+      "digi"
+    ], 
     "mime": "", 
     "description": "Digibooster music file", 
     "fid": "000001302-21-000DIGI"
   }, 
   {
-    "ext": "dmf", 
+    "ext": [
+      "dmf"
+    ], 
     "mime": "", 
     "description": "Delusion tracker module music file", 
     "fid": "000000000-21-0000DMF"
   }, 
   {
-    "ext": "dsm", 
+    "ext": [
+      "dsm"
+    ], 
     "mime": "", 
     "description": "DOS Sound interface kit module music file", 
     "fid": "000000000-21-0000DSM"
   }, 
   {
-    "ext": "edl", 
+    "ext": [
+      "edl"
+    ], 
     "mime": "", 
     "description": "Edlib FM tracker music file", 
     "fid": "000100027-21-0000EDL"
   }, 
   {
-    "ext": "emd", 
+    "ext": [
+      "emd"
+    ], 
     "mime": "", 
     "description": "Enhanced module music file (IFF)", 
     "fid": "000100085-21-0000EMD"
   }, 
   {
-    "ext": "far", 
+    "ext": [
+      "far"
+    ], 
     "mime": "", 
     "description": "Farandole composer module music file", 
     "fid": "000100087-21-0000FAR"
   }, 
   {
-    "ext": "fnk", 
+    "ext": [
+      "fnk"
+    ], 
     "mime": "", 
     "description": "Funktracker Gold music file", 
     "fid": "000100086-21-0000FNK"
   }, 
   {
-    "ext": "gdm", 
+    "ext": [
+      "gdm"
+    ], 
     "mime": "", 
     "description": "General DigiMusic module music file", 
     "fid": "000001280-21-0000GDM"
   }, 
   {
-    "ext": "gt2", 
+    "ext": [
+      "gt2"
+    ], 
     "mime": "", 
     "description": "Graoumf Tracker module music file", 
     "fid": "000100031-21-0000GT2"
   }, 
   {
-    "ext": "it", 
+    "ext": [
+      "it"
+    ], 
     "mime": "", 
     "description": "Impulse Tracker module music file", 
     "fid": "000100032-21-00000IT"
   }, 
   {
-    "ext": "jam", 
+    "ext": [
+      "jam"
+    ], 
     "mime": "", 
     "description": "Jamcracker tracker module music file", 
     "fid": "000000000-21-0000JAM"
   }, 
   {
-    "ext": "liq", 
+    "ext": [
+      "liq"
+    ], 
     "mime": "", 
     "description": "Liquid tracker module music file", 
     "fid": "000100090-21-0000LIQ"
   }, 
   {
-    "ext": "mdl", 
+    "ext": [
+      "mdl"
+    ], 
     "mime": "", 
     "description": "Digitrakker module music file", 
     "fid": "000100088-21-0000MDL"
   }, 
   {
-    "ext": "med", 
+    "ext": [
+      "med"
+    ], 
     "mime": "", 
     "description": "Octamed tracker module music file", 
     "fid": "000001278-21-0000MED"
   }, 
   {
-    "ext": "med", 
+    "ext": [
+      "med"
+    ], 
     "mime": "", 
     "description": "Octamed Pro Tracker module music file", 
     "fid": "000001278-21-0000MED"
   }, 
   {
-    "ext": "med", 
+    "ext": [
+      "med"
+    ], 
     "mime": "", 
     "description": "Octamed Pro Tracker module music file", 
     "fid": "000001278-21-0000MED"
   }, 
   {
-    "ext": "med", 
+    "ext": [
+      "med"
+    ], 
     "mime": "", 
     "description": "Octamed Sound Studio module music file", 
     "fid": "000001278-21-0000MED"
   }, 
   {
-    "ext": "ml", 
+    "ext": [
+      "ml"
+    ], 
     "mime": "", 
     "description": "Musicline module music file", 
     "fid": "000001304-21-00000ML"
   }, 
   {
-    "ext": "mod", 
+    "ext": [
+      "mod"
+    ], 
     "mime": "", 
     "description": "Protracker module music file, version 3.x", 
     "fid": "000100022-21-0000MOD"
   }, 
   {
-    "ext": "mt2", 
+    "ext": [
+      "mt2"
+    ], 
     "mime": "", 
     "description": "Madtracker module music file", 
     "fid": "000100091-21-0000MT2"
   }, 
   {
-    "ext": "mtm", 
+    "ext": [
+      "mtm"
+    ], 
     "mime": "", 
     "description": "MultiTracker module music file", 
     "fid": "000100089-21-0000MTM"
   }, 
   {
-    "ext": "mtp", 
+    "ext": [
+      "mtp"
+    ], 
     "mime": "", 
     "description": "Madtracker pattern file", 
     "fid": "000100091-21-0000MTP"
   }, 
   {
-    "ext": "nsa", 
+    "ext": [
+      "nsa"
+    ], 
     "mime": "", 
     "description": "A/NES ripped audio file", 
     "fid": "000100094-21-0000NSA"
   }, 
   {
-    "ext": "nsf", 
+    "ext": [
+      "nsf"
+    ], 
     "mime": "", 
     "description": "NES ripped audio file", 
     "fid": "000100093-21-0000NSF"
   }, 
   {
-    "ext": "okt", 
+    "ext": [
+      "okt"
+    ], 
     "mime": "", 
     "description": "Oktalyzer module music file", 
     "fid": "000100030-21-0000OKT"
   }, 
   {
-    "ext": "pac", 
+    "ext": [
+      "pac"
+    ], 
     "mime": "", 
     "description": "SBStudio module music file", 
     "fid": "000100020-21-0000PAC"
   }, 
   {
-    "ext": "rad", 
+    "ext": [
+      "rad"
+    ], 
     "mime": "", 
     "description": "Reality Adlib tracker music file", 
     "fid": "000000000-21-0000RAD"
   }, 
   {
-    "ext": "rmi", 
+    "ext": [
+      "rmi"
+    ], 
     "mime": "application/vnd.music-niff", 
     "description": "Song notation data file, little-endian", 
     "fid": "000000000-21-0000RMI"
   }, 
   {
-    "ext": "rmi", 
+    "ext": [
+      "rmi"
+    ], 
     "mime": "application/vnd.music-niff", 
     "description": "Song notation data file, big-endian", 
     "fid": "000000000-21-0000RMI"
   }, 
   {
-    "ext": "rol", 
+    "ext": [
+      "rol"
+    ], 
     "mime": "", 
     "description": "Adlib music file", 
     "fid": "000001016-21-0000ROL"
   }, 
   {
-    "ext": "sa2", 
+    "ext": [
+      "sa2"
+    ], 
     "mime": "", 
     "description": "Surprise Productions Adlib tracker music file", 
     "fid": "000100021-21-0000SA2"
   }, 
   {
-    "ext": "sid", 
+    "ext": [
+      "sid"
+    ], 
     "mime": "", 
     "description": "PlaySID music file", 
     "fid": "000000000-21-0000SID"
   }, 
   {
-    "ext": "smf,midi", 
+    "ext": [
+      "smf", 
+      "midi"
+    ], 
     "mime": "", 
     "description": "Standard MIDI music file", 
     "fid": "000001017-21-0000SMF"
   }, 
   {
-    "ext": "smus,mus", 
+    "ext": [
+      "smus", 
+      "mus"
+    ], 
     "mime": "", 
     "description": "IFF Simple Musical Score file", 
     "fid": "000001010-21-000SMUS"
   }, 
   {
-    "ext": "snd", 
+    "ext": [
+      "snd"
+    ], 
     "mime": "", 
     "description": "Nintendo Entertainment System audio file (NES)", 
     "fid": "000000000-21-0000SND"
   }, 
   {
-    "ext": "snd", 
+    "ext": [
+      "snd"
+    ], 
     "mime": "", 
     "description": "iNES emulator audio file", 
     "fid": "000100092-21-0000SND"
   }, 
   {
-    "ext": "tfx,tfmx", 
+    "ext": [
+      "tfx", 
+      "tfmx"
+    ], 
     "mime": "", 
     "description": "TFMX tracker module music file", 
     "fid": "000100096-21-0000TFX"
   }, 
   {
-    "ext": "ult", 
+    "ext": [
+      "ult"
+    ], 
     "mime": "", 
     "description": "Ultra Tracker module music file", 
     "fid": "000100097-21-0000ULT"
   }, 
   {
-    "ext": "uni", 
+    "ext": [
+      "uni"
+    ], 
     "mime": "", 
     "description": "APlayer module music file", 
     "fid": "000000000-21-0000UNI"
   }, 
   {
-    "ext": "uni", 
+    "ext": [
+      "uni"
+    ], 
     "mime": "", 
     "description": "Mikmod module music file", 
     "fid": "000000000-21-0000UNI"
   }, 
   {
-    "ext": "xm", 
+    "ext": [
+      "xm"
+    ], 
     "mime": "", 
     "description": "FastTracker II module music file", 
     "fid": "000100026-21-00000XM"
   }, 
   {
-    "ext": "8svx", 
+    "ext": [
+      "8svx"
+    ], 
     "mime": "", 
     "description": "Amiga Sampled audio file", 
     "fid": "000001010-22-0008SVX"
   }, 
   {
-    "ext": "aifc,aif", 
+    "ext": [
+      "aifc", 
+      "aif"
+    ], 
     "mime": "", 
     "description": "Audio Compressed Interchange File Format", 
     "fid": "000001002-22-000AIFC"
   }, 
   {
-    "ext": "aiff,aif", 
+    "ext": [
+      "aiff", 
+      "aif"
+    ], 
     "mime": "", 
     "description": "Audio Interchange File Format", 
     "fid": "000001002-22-000AIFF"
   }, 
   {
-    "ext": "ape", 
+    "ext": [
+      "ape"
+    ], 
     "mime": "", 
     "description": "MonkeyAudio compressed audio file", 
     "fid": "000100120-22-0000APE"
   }, 
   {
-    "ext": "au,snd", 
+    "ext": [
+      "au", 
+      "snd"
+    ], 
     "mime": "", 
     "description": "Sun / NeXt sampled audio file", 
     "fid": "000001011-22-00000AU"
   }, 
   {
-    "ext": "flac", 
+    "ext": [
+      "flac"
+    ], 
     "mime": "", 
     "description": "Free Lossless Audio Codec raw audio file", 
     "fid": "000100098-22-000FLAC"
   }, 
   {
-    "ext": "fsm", 
+    "ext": [
+      "fsm"
+    ], 
     "mime": "", 
     "description": "Farandole composer audio sample file", 
     "fid": "000100087-22-0000FSM"
   }, 
   {
-    "ext": "maud", 
+    "ext": [
+      "maud"
+    ], 
     "mime": "", 
     "description": "MAUD audio sample file", 
     "fid": "000000000-22-000MAUD"
   }, 
   {
-    "ext": "mp1,mp2,mp3", 
+    "ext": [
+      "mp1", 
+      "mp2", 
+      "mp3"
+    ], 
     "mime": "audio/mpeg", 
     "description": "MP3 Audio stream file", 
     "fid": "000000001-22-0011172"
   }, 
   {
-    "ext": "mp1,mp2,mp3", 
+    "ext": [
+      "mp1", 
+      "mp2", 
+      "mp3"
+    ], 
     "mime": "audio/mpeg", 
     "description": "MP3 Audio stream file", 
     "fid": "000000001-22-0011172"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file, little-endian", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file, big-endian", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file, big-endian", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file, little-endian", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "sf", 
+    "ext": [
+      "sf"
+    ], 
     "mime": "", 
     "description": "IRCAM audio sample file, big-endian", 
     "fid": "000001014-22-00000SF"
   }, 
   {
-    "ext": "snd", 
+    "ext": [
+      "snd"
+    ], 
     "mime": "", 
     "description": "Sound tool audio data file", 
     "fid": "000100095-22-0000SND"
   }, 
   {
-    "ext": "sou", 
+    "ext": [
+      "sou"
+    ], 
     "mime": "", 
     "description": "SBStudio sampled audio file", 
     "fid": "000100020-22-0000SOU"
   }, 
   {
-    "ext": "speex", 
+    "ext": [
+      "speex"
+    ], 
     "mime": "", 
     "description": "Speex Lossy Audio Codec raw audio file", 
     "fid": "000000000-22-00SPEEX"
   }, 
   {
-    "ext": "voc", 
+    "ext": [
+      "voc"
+    ], 
     "mime": "", 
     "description": "Creative Voice audio file", 
     "fid": "000001013-22-0000VOC"
   }, 
   {
-    "ext": "vorbis", 
+    "ext": [
+      "vorbis"
+    ], 
     "mime": "", 
     "description": "Vorbis Lossy Audio Codec raw audio file", 
     "fid": "000000000-22-0VORBIS"
   }, 
   {
-    "ext": "wav", 
+    "ext": [
+      "wav"
+    ], 
     "mime": "", 
     "description": "Microsoft Waveform Audio file, little-endian", 
     "fid": "000001001-22-0000WAV"
   }, 
   {
-    "ext": "wav", 
+    "ext": [
+      "wav"
+    ], 
     "mime": "", 
     "description": "Microsoft Waveform Audio file, big-endian", 
     "fid": "000001001-22-0000WAV"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Maya image file", 
     "fid": "000001312-31-0000000"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Maya image file", 
     "fid": "000001312-31-0000000"
   }, 
   {
-    "ext": "art", 
+    "ext": [
+      "art"
+    ], 
     "mime": "", 
     "description": "AOL/Johnson-Grace image file, version 2.0", 
     "fid": "000001023-31-0000ART"
   }, 
   {
-    "ext": "bmf", 
+    "ext": [
+      "bmf"
+    ], 
     "mime": "", 
     "description": "BMF image file", 
     "fid": "000100048-31-0000BMF"
   }, 
   {
-    "ext": "bmf", 
+    "ext": [
+      "bmf"
+    ], 
     "mime": "", 
     "description": "BMF image file", 
     "fid": "000100048-31-0000BMF"
   }, 
   {
-    "ext": "bmf", 
+    "ext": [
+      "bmf"
+    ], 
     "mime": "", 
     "description": "BMF image file", 
     "fid": "000100048-31-0000BMF"
   }, 
   {
-    "ext": "bmp", 
+    "ext": [
+      "bmp"
+    ], 
     "mime": "", 
     "description": "Windows or OS/2 Bitmap image file", 
     "fid": "000001001-31-0000BMP"
   }, 
   {
-    "ext": "cel,pic", 
+    "ext": [
+      "cel", 
+      "pic"
+    ], 
     "mime": "", 
     "description": "Autodesk animator image file", 
     "fid": "000001254-31-0000CEL"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "cur", 
+    "ext": [
+      "cur"
+    ], 
     "mime": "", 
     "description": "Microsoft windows cursor image file", 
     "fid": "000001001-31-0000CUR"
   }, 
   {
-    "ext": "dpx", 
+    "ext": [
+      "dpx"
+    ], 
     "mime": "", 
     "description": "Digital Moving-Picture Exchange image file", 
     "fid": "000001309-31-0000DPX"
   }, 
   {
-    "ext": "dpx", 
+    "ext": [
+      "dpx"
+    ], 
     "mime": "", 
     "description": "Digital Moving-Picture Exchange image file", 
     "fid": "000001309-31-0000DPX"
   }, 
   {
-    "ext": "fpbm", 
+    "ext": [
+      "fpbm"
+    ], 
     "mime": "", 
     "description": "Flexible Precision Buffer Map image file", 
     "fid": "000001251-31-000FPBM"
   }, 
   {
-    "ext": "gif", 
+    "ext": [
+      "gif"
+    ], 
     "mime": "image/gif", 
     "description": "GIF image file", 
     "fid": "000001274-31-0000GIF"
   }, 
   {
-    "ext": "gif", 
+    "ext": [
+      "gif"
+    ], 
     "mime": "image/gif", 
     "description": "GIF image file", 
     "fid": "000001274-31-0000GIF"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "ico", 
+    "ext": [
+      "ico"
+    ], 
     "mime": "image/vnd.microsoft.icon", 
     "description": "Microsoft windows Icon image file", 
     "fid": "000001001-31-0000ICO"
   }, 
   {
-    "ext": "icon", 
+    "ext": [
+      "icon"
+    ], 
     "mime": "", 
     "description": "SunOS icon image file", 
     "fid": "000001011-31-000ICON"
   }, 
   {
-    "ext": "img", 
+    "ext": [
+      "img"
+    ], 
     "mime": "", 
     "description": "GEM Bit Image", 
     "fid": "000001273-31-0000IMG"
   }, 
   {
-    "ext": "jng", 
+    "ext": [
+      "jng"
+    ], 
     "mime": "", 
     "description": "JPEG Network graphics image file", 
     "fid": "000000000-31-0000JNG"
   }, 
   {
-    "ext": "jp2", 
+    "ext": [
+      "jp2"
+    ], 
     "mime": "image/jp2", 
     "description": "JPEG 2000 image file", 
     "fid": "000000001-31-0015444"
   }, 
   {
-    "ext": "jpc", 
+    "ext": [
+      "jpc"
+    ], 
     "mime": "", 
     "description": "JPEG 2000 code stream image file", 
     "fid": "000000001-31-0015444"
   }, 
   {
-    "ext": "jpeg,jpg", 
+    "ext": [
+      "jpeg", 
+      "jpg"
+    ], 
     "mime": "image/jpeg", 
     "description": "Joint Photographic Experts Group JFIF image file", 
     "fid": "000001305-31-000JPEG"
   }, 
   {
-    "ext": "jpg,jpeg", 
+    "ext": [
+      "jpg", 
+      "jpeg"
+    ], 
     "mime": "image/jpeg", 
     "description": "Digital still camera image file", 
     "fid": "000000005-31-000JPEG"
   }, 
   {
-    "ext": "lbm", 
+    "ext": [
+      "lbm"
+    ], 
     "mime": "", 
     "description": "Interleaved bitmap image file", 
     "fid": "000001010-31-0000LBM"
   }, 
   {
-    "ext": "lisp", 
+    "ext": [
+      "lisp"
+    ], 
     "mime": "", 
     "description": "Lisp machine format image file", 
     "fid": "000000000-31-000LISP"
   }, 
   {
-    "ext": "mda", 
+    "ext": [
+      "mda"
+    ], 
     "mime": "", 
     "description": "Microdesign Area image file", 
     "fid": "000001316-31-0000MDA"
   }, 
   {
-    "ext": "mdp", 
+    "ext": [
+      "mdp"
+    ], 
     "mime": "", 
     "description": "Microdesign page image file", 
     "fid": "000001316-31-0000MDP"
   }, 
   {
-    "ext": "miff,mif", 
+    "ext": [
+      "miff", 
+      "mif"
+    ], 
     "mime": "", 
     "description": "Imagemagick image file", 
     "fid": "000100101-31-000MIFF"
   }, 
   {
-    "ext": "mrf", 
+    "ext": [
+      "mrf"
+    ], 
     "mime": "", 
     "description": "Monochrome recursive format image file", 
     "fid": "000100105-31-0000MRF"
   }, 
   {
-    "ext": "msp", 
+    "ext": [
+      "msp"
+    ], 
     "mime": "", 
     "description": "Microsoft paint image file, version 1.0", 
     "fid": "000001001-31-0000MSP"
   }, 
   {
-    "ext": "msp", 
+    "ext": [
+      "msp"
+    ], 
     "mime": "", 
     "description": "Microsoft paint image file, version 2.0", 
     "fid": "000001001-31-0000MSP"
   }, 
   {
-    "ext": "pam", 
+    "ext": [
+      "pam"
+    ], 
     "mime": "", 
     "description": "Portable arbitrary map image file", 
     "fid": "000100100-31-0000PAM"
   }, 
   {
-    "ext": "pbm", 
+    "ext": [
+      "pbm"
+    ], 
     "mime": "", 
     "description": "Portable bitmap image file, ascii", 
     "fid": "000100100-31-0000PBM"
   }, 
   {
-    "ext": "pbm", 
+    "ext": [
+      "pbm"
+    ], 
     "mime": "", 
     "description": "Portable bitmap image file, binary", 
     "fid": "000100100-31-0000PBM"
   }, 
   {
-    "ext": "pcx", 
+    "ext": [
+      "pcx"
+    ], 
     "mime": "", 
     "description": "PC-Paintbrush image file, version 2.5", 
     "fid": "000001257-31-0000PCX"
   }, 
   {
-    "ext": "pcx", 
+    "ext": [
+      "pcx"
+    ], 
     "mime": "", 
     "description": "PC-Paintbrush image file, version 2.8", 
     "fid": "000001257-31-0000PCX"
   }, 
   {
-    "ext": "pcx", 
+    "ext": [
+      "pcx"
+    ], 
     "mime": "", 
     "description": "PC-Paintbrush image file, version 2.8", 
     "fid": "000001257-31-0000PCX"
   }, 
   {
-    "ext": "pcx", 
+    "ext": [
+      "pcx"
+    ], 
     "mime": "", 
     "description": "PC-Paintbrush for windows image file", 
     "fid": "000001257-31-0000PCX"
   }, 
   {
-    "ext": "pcx", 
+    "ext": [
+      "pcx"
+    ], 
     "mime": "", 
     "description": "PC-Paintbrush image file, version 3.0", 
     "fid": "000001257-31-0000PCX"
   }, 
   {
-    "ext": "pgm", 
+    "ext": [
+      "pgm"
+    ], 
     "mime": "", 
     "description": "Portable gray map image file, ascii", 
     "fid": "000100100-31-0000PGM"
   }, 
   {
-    "ext": "pgm", 
+    "ext": [
+      "pgm"
+    ], 
     "mime": "", 
     "description": "Portable gray map image file, binary", 
     "fid": "000100100-31-0000PGM"
   }, 
   {
-    "ext": "pic", 
+    "ext": [
+      "pic"
+    ], 
     "mime": "", 
     "description": "Pictor PC Paint image file", 
     "fid": "000001318-31-0000PIC"
   }, 
   {
-    "ext": "pic", 
+    "ext": [
+      "pic"
+    ], 
     "mime": "", 
     "description": "Pictor PC Paint image file", 
     "fid": "000001318-31-0000PIC"
   }, 
   {
-    "ext": "pic", 
+    "ext": [
+      "pic"
+    ], 
     "mime": "", 
     "description": "Pictor PC Paint image file", 
     "fid": "000001318-31-0000PIC"
   }, 
   {
-    "ext": "pic", 
+    "ext": [
+      "pic"
+    ], 
     "mime": "", 
     "description": "Softimage 3D image file", 
     "fid": "000001321-31-0000PIC"
   }, 
   {
-    "ext": "png", 
+    "ext": [
+      "png"
+    ], 
     "mime": "image/png", 
     "description": "Portable Network Graphic file", 
     "fid": "000000001-31-0015948"
   }, 
   {
-    "ext": "ppm", 
+    "ext": [
+      "ppm"
+    ], 
     "mime": "", 
     "description": "Portable pixel map image file, ascii", 
     "fid": "000100100-31-0000PPM"
   }, 
   {
-    "ext": "ppm", 
+    "ext": [
+      "ppm"
+    ], 
     "mime": "", 
     "description": "Portable pixel map image file, binary", 
     "fid": "000100100-31-0000PPM"
   }, 
   {
-    "ext": "psd", 
+    "ext": [
+      "psd"
+    ], 
     "mime": "", 
     "description": "Adobe Photoshop image file", 
     "fid": "000001003-31-0000PSD"
   }, 
   {
-    "ext": "psp", 
+    "ext": [
+      "psp"
+    ], 
     "mime": "", 
     "description": "Paintshop pro image file", 
     "fid": "000001310-31-0000PSP"
   }, 
   {
-    "ext": "ras", 
+    "ext": [
+      "ras"
+    ], 
     "mime": "", 
     "description": "Sun raster image", 
     "fid": "000001011-31-0000RAS"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file, compressed", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file, compressed", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb", 
+    "ext": [
+      "rgb"
+    ], 
     "mime": "", 
     "description": "SGI Image file, compressed", 
     "fid": "000001004-31-0000RGB"
   }, 
   {
-    "ext": "rgb8,rgb", 
+    "ext": [
+      "rgb8", 
+      "rgb"
+    ], 
     "mime": "", 
     "description": "Turbo Silver 24-bit RGB image file", 
     "fid": "000001252-31-000RGB8"
   }, 
   {
-    "ext": "rgbn,rgb", 
+    "ext": [
+      "rgbn", 
+      "rgb"
+    ], 
     "mime": "", 
     "description": "Turbo Silver 12-bit RGB image file", 
     "fid": "000001252-31-000RGBN"
   }, 
   {
-    "ext": "scz", 
+    "ext": [
+      "scz"
+    ], 
     "mime": "", 
     "description": "ColorRIX VGA Paint image file", 
     "fid": "000001320-31-0000SCZ"
   }, 
   {
-    "ext": "sir", 
+    "ext": [
+      "sir"
+    ], 
     "mime": "", 
     "description": "Solitaire image recorder image file, MGI type 11", 
     "fid": "000000000-31-0000SIR"
   }, 
   {
-    "ext": "sir", 
+    "ext": [
+      "sir"
+    ], 
     "mime": "", 
     "description": "Solitaire image recorder image file, MGI type 17", 
     "fid": "000000000-31-0000SIR"
   }, 
   {
-    "ext": "thn", 
+    "ext": [
+      "thn"
+    ], 
     "mime": "", 
     "description": "Graphics workshop thumbnail image file", 
     "fid": "000001258-31-0000THN"
   }, 
   {
-    "ext": "tif,tiff,dng", 
+    "ext": [
+      "tif", 
+      "tiff", 
+      "dng"
+    ], 
     "mime": "image/tiff", 
     "description": "Tagged image file format image file, little-endian", 
     "fid": "000001003-31-0000TIF"
   }, 
   {
-    "ext": "tif,tiff,dng", 
+    "ext": [
+      "tif", 
+      "tiff", 
+      "dng"
+    ], 
     "mime": "image/tiff", 
     "description": "Tagged image file format image file, big-endian", 
     "fid": "000001003-31-0000TIF"
   }, 
   {
-    "ext": "vic,vicar", 
+    "ext": [
+      "vic", 
+      "vicar"
+    ], 
     "mime": "", 
     "description": "Vicar image file", 
     "fid": "000001022-31-0000VIC"
   }, 
   {
-    "ext": "vif,viff", 
+    "ext": [
+      "vif", 
+      "viff"
+    ], 
     "mime": "", 
     "description": "Khoros Visualization/Image File Format, version 1.3", 
     "fid": "000001308-31-0000VIF"
   }, 
   {
-    "ext": "wfa", 
+    "ext": [
+      "wfa"
+    ], 
     "mime": "", 
     "description": "Fractal Image And Sequence Codec image file", 
     "fid": "000100107-31-0000WFA"
   }, 
   {
-    "ext": "xpm", 
+    "ext": [
+      "xpm"
+    ], 
     "mime": "", 
     "description": "X-Windows pixel map image file", 
     "fid": "000001020-31-0000XPM"
   }, 
   {
-    "ext": "xv", 
+    "ext": [
+      "xv"
+    ], 
     "mime": "", 
     "description": "XV Thumbnail image file", 
     "fid": "000100103-31-00000XV"
   }, 
   {
-    "ext": "xwd", 
+    "ext": [
+      "xwd"
+    ], 
     "mime": "", 
     "description": "X10 XWindows dump image file", 
     "fid": "000001020-31-0000XWD"
   }, 
   {
-    "ext": "xwd", 
+    "ext": [
+      "xwd"
+    ], 
     "mime": "", 
     "description": "X10 XWindows dump image file", 
     "fid": "000001020-31-0000XWD"
   }, 
   {
-    "ext": "dr2d", 
+    "ext": [
+      "dr2d"
+    ], 
     "mime": "", 
     "description": "Provector 2D image file", 
     "fid": "000001319-32-000DR2D"
   }, 
   {
-    "ext": "fig", 
+    "ext": [
+      "fig"
+    ], 
     "mime": "", 
     "description": "Facility for Interactive Generation file", 
     "fid": "000100011-32-0000FIG"
   }, 
   {
-    "ext": "pic", 
+    "ext": [
+      "pic"
+    ], 
     "mime": "", 
     "description": "Lotus 1-2-3 image file", 
     "fid": "000001009-32-0000PIC"
   }, 
   {
-    "ext": "sld", 
+    "ext": [
+      "sld"
+    ], 
     "mime": "", 
     "description": "Autocad slide image file", 
     "fid": "000001254-32-0000SLD"
   }, 
   {
-    "ext": "wpg", 
+    "ext": [
+      "wpg"
+    ], 
     "mime": "", 
     "description": "Wordperfect Graphics vectors", 
     "fid": "000001008-32-0000WPG"
   }, 
   {
-    "ext": "amff", 
+    "ext": [
+      "amff"
+    ], 
     "mime": "", 
     "description": "Amiga metafile", 
     "fid": "000100019-33-000AMFF"
   }, 
   {
-    "ext": "apm", 
+    "ext": [
+      "apm"
+    ], 
     "mime": "", 
     "description": "Aldus placeable Windows metafile", 
     "fid": "000001003-33-0000APM"
   }, 
   {
-    "ext": "cdr", 
+    "ext": [
+      "cdr"
+    ], 
     "mime": "", 
     "description": "Coreldraw  little-endian metafile", 
     "fid": "000001008-33-0000CDR"
   }, 
   {
-    "ext": "cdr", 
+    "ext": [
+      "cdr"
+    ], 
     "mime": "", 
     "description": "Coreldraw  big-endian metafile", 
     "fid": "000001008-33-0000CDR"
   }, 
   {
-    "ext": "cgm", 
+    "ext": [
+      "cgm"
+    ], 
     "mime": "image/cgm", 
     "description": "Computer graphics metafile, binary encoded", 
     "fid": "000000001-33-0008632"
   }, 
   {
-    "ext": "cgm", 
+    "ext": [
+      "cgm"
+    ], 
     "mime": "image/cgm", 
     "description": "Computer graphics metafile, ascii encoded", 
     "fid": "000000001-33-0008632"
   }, 
   {
-    "ext": "cmx", 
+    "ext": [
+      "cmx"
+    ], 
     "mime": "", 
     "description": "Corel little-endian metafile", 
     "fid": "000001008-33-0000CMX"
   }, 
   {
-    "ext": "cmx", 
+    "ext": [
+      "cmx"
+    ], 
     "mime": "", 
     "description": "Corel big-endian metafile", 
     "fid": "000001008-33-0000CMX"
   }, 
   {
-    "ext": "emf", 
+    "ext": [
+      "emf"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows Enhanced metafile", 
     "fid": "000001001-33-0000EMF"
   }, 
   {
-    "ext": "epsf", 
+    "ext": [
+      "epsf"
+    ], 
     "mime": "application/postscript", 
     "description": "Adobe Encapsulated Postscript Level 2, version 1.2", 
     "fid": "000001003-33-000EPSF"
   }, 
   {
-    "ext": "epsf", 
+    "ext": [
+      "epsf"
+    ], 
     "mime": "application/postscript", 
     "description": "Adobe Encapsulated Postscript Level 2, version 2.0", 
     "fid": "000001003-33-000EPSF"
   }, 
   {
-    "ext": "epsf", 
+    "ext": [
+      "epsf"
+    ], 
     "mime": "application/postscript", 
     "description": "Adobe Encapsulated Postscript Level 3, version 3.0", 
     "fid": "000001003-33-000EPSF"
   }, 
   {
-    "ext": "epsf,ai", 
+    "ext": [
+      "epsf", 
+      "ai"
+    ], 
     "mime": "application/postscript", 
     "description": "Adobe Encapsulated Postscript, version 3.0, binary", 
     "fid": "000001003-33-000EPSF"
   }, 
   {
-    "ext": "gem", 
+    "ext": [
+      "gem"
+    ], 
     "mime": "", 
     "description": "GemDOS Motorola Metafile, version 1.01", 
     "fid": "000001273-33-0000GEM"
   }, 
   {
-    "ext": "gem", 
+    "ext": [
+      "gem"
+    ], 
     "mime": "", 
     "description": "GemDOS Metafile", 
     "fid": "000001273-33-0000GEM"
   }, 
   {
-    "ext": "gem", 
+    "ext": [
+      "gem"
+    ], 
     "mime": "", 
     "description": "GemDOS Intel Metafile, version 4.00", 
     "fid": "000001273-33-0000GEM"
   }, 
   {
-    "ext": "gem", 
+    "ext": [
+      "gem"
+    ], 
     "mime": "", 
     "description": "GemDOS Intel Metafile, version 3.10", 
     "fid": "000001273-33-0000GEM"
   }, 
   {
-    "ext": "gem", 
+    "ext": [
+      "gem"
+    ], 
     "mime": "", 
     "description": "GemDOS Intel Metafile, version 1.01", 
     "fid": "000001273-33-0000GEM"
   }, 
   {
-    "ext": "wmf", 
+    "ext": [
+      "wmf"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows metafile", 
     "fid": "000001001-33-0000WMF"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Maxon Cinema 4D version 5 3D data", 
     "fid": "000001255-40-0000000"
   }, 
   {
-    "ext": "3dmf", 
+    "ext": [
+      "3dmf"
+    ], 
     "mime": "", 
     "description": "Apple Quickdraw 3D metafile", 
     "fid": "000001002-40-0003DMF"
   }, 
   {
-    "ext": "3dmf", 
+    "ext": [
+      "3dmf"
+    ], 
     "mime": "", 
     "description": "Rhino3d / OpenNurbs 3d model", 
     "fid": "000001330-40-0003DMF"
   }, 
   {
-    "ext": "3dmf,a3d", 
+    "ext": [
+      "3dmf", 
+      "a3d"
+    ], 
     "mime": "", 
     "description": "Apple Quickdraw 3D metafile", 
     "fid": "000001002-40-0003DMF"
   }, 
   {
-    "ext": "ac", 
+    "ext": [
+      "ac"
+    ], 
     "mime": "", 
     "description": "Ac3d 3d model", 
     "fid": "000000000-40-00000AC"
   }, 
   {
-    "ext": "ase", 
+    "ext": [
+      "ase"
+    ], 
     "mime": "", 
     "description": "3d studio max ascii export 3D model", 
     "fid": "000001326-40-0000ASE"
   }, 
   {
-    "ext": "cob,scn", 
+    "ext": [
+      "cob", 
+      "scn"
+    ], 
     "mime": "", 
     "description": "Caligari Truespace2 3D model", 
     "fid": "000001256-40-0000COB"
   }, 
   {
-    "ext": "dat", 
+    "ext": [
+      "dat"
+    ], 
     "mime": "", 
     "description": "Tachyon ray-tracer 3d model", 
     "fid": "000100116-40-0000DAT"
   }, 
   {
-    "ext": "dwg", 
+    "ext": [
+      "dwg"
+    ], 
     "mime": "image/vnd.dwg", 
     "description": "Autocad drawing format 3d model", 
     "fid": "000001254-40-0000DWG"
   }, 
   {
-    "ext": "dxf", 
+    "ext": [
+      "dxf"
+    ], 
     "mime": "image/vnd.dxf", 
     "description": "Autocad drawing interchange 3d model, binary", 
     "fid": "000001254-40-0000DXF"
   }, 
   {
-    "ext": "flt", 
+    "ext": [
+      "flt"
+    ], 
     "mime": "", 
     "description": "Openflight scene description 3d model", 
     "fid": "000001332-40-0000FLT"
   }, 
   {
-    "ext": "geo", 
+    "ext": [
+      "geo"
+    ], 
     "mime": "", 
     "description": "Videoscape 3d model with colored vertices", 
     "fid": "000001328-40-0000GEO"
   }, 
   {
-    "ext": "geo", 
+    "ext": [
+      "geo"
+    ], 
     "mime": "", 
     "description": "Videoscape 3d model with colored faces", 
     "fid": "000001328-40-0000GEO"
   }, 
   {
-    "ext": "geo", 
+    "ext": [
+      "geo"
+    ], 
     "mime": "", 
     "description": "Videoscape 3d model light source", 
     "fid": "000001328-40-0000GEO"
   }, 
   {
-    "ext": "geo", 
+    "ext": [
+      "geo"
+    ], 
     "mime": "", 
     "description": "Videoscape 3d model with gouraud curves", 
     "fid": "000001328-40-0000GEO"
   }, 
   {
-    "ext": "hrc", 
+    "ext": [
+      "hrc"
+    ], 
     "mime": "", 
     "description": "Softimage 4d model, ascii encoded", 
     "fid": "000001321-40-0000HRC"
   }, 
   {
-    "ext": "iv", 
+    "ext": [
+      "iv"
+    ], 
     "mime": "", 
     "description": "Open Inventor 3d model", 
     "fid": "000001004-40-00000IV"
   }, 
   {
-    "ext": "list", 
+    "ext": [
+      "list"
+    ], 
     "mime": "", 
     "description": "Geomview list of 3D models and objects", 
     "fid": "000100118-40-000LIST"
   }, 
   {
-    "ext": "lwo,lwob", 
+    "ext": [
+      "lwo", 
+      "lwob"
+    ], 
     "mime": "", 
     "description": "Lightwave 3D object", 
     "fid": "000001251-40-0000LWO"
   }, 
   {
-    "ext": "lwob,lwo", 
+    "ext": [
+      "lwob", 
+      "lwo"
+    ], 
     "mime": "", 
     "description": "Lightwave 3D object", 
     "fid": "000001251-40-0000LWO"
   }, 
   {
-    "ext": "lwsc,lws", 
+    "ext": [
+      "lwsc", 
+      "lws"
+    ], 
     "mime": "", 
     "description": "Lightwave 3D scene", 
     "fid": "000001251-40-0000LWS"
   }, 
   {
-    "ext": "ma", 
+    "ext": [
+      "ma"
+    ], 
     "mime": "", 
     "description": "Maya 3d model, ascii encoded", 
     "fid": "000001312-40-00000MA"
   }, 
   {
-    "ext": "mc4d", 
+    "ext": [
+      "mc4d"
+    ], 
     "mime": "", 
     "description": "Maxon Cinema 4D v4.x 3D data", 
     "fid": "000001255-40-000MC4D"
   }, 
   {
-    "ext": "mesh", 
+    "ext": [
+      "mesh"
+    ], 
     "mime": "", 
     "description": "Geomview polygon", 
     "fid": "000100118-40-000MESH"
   }, 
   {
-    "ext": "mesh", 
+    "ext": [
+      "mesh"
+    ], 
     "mime": "", 
     "description": "Geomview polygon", 
     "fid": "000100118-40-000MESH"
   }, 
   {
-    "ext": "ms3d", 
+    "ext": [
+      "ms3d"
+    ], 
     "mime": "", 
     "description": "Milkshape 3d model, binary encoded", 
     "fid": "000100117-40-000MS3D"
   }, 
   {
-    "ext": "nff", 
+    "ext": [
+      "nff"
+    ], 
     "mime": "", 
     "description": "Sense8 Worldtoolkit 3D object", 
     "fid": "000001253-40-0000NFF"
   }, 
   {
-    "ext": "q3o", 
+    "ext": [
+      "q3o"
+    ], 
     "mime": "", 
     "description": "Quick3d 3D object", 
     "fid": "000001334-40-0000Q3O"
   }, 
   {
-    "ext": "q3s", 
+    "ext": [
+      "q3s"
+    ], 
     "mime": "", 
     "description": "Quick3d 3D scene", 
     "fid": "000001334-40-0000Q3S"
   }, 
   {
-    "ext": "rib", 
+    "ext": [
+      "rib"
+    ], 
     "mime": "", 
     "description": "Renderman bytestream 3D model", 
     "fid": "000001323-40-0000RIB"
   }, 
   {
-    "ext": "scene", 
+    "ext": [
+      "scene"
+    ], 
     "mime": "", 
     "description": "Sculpt 3d scene model", 
     "fid": "000000000-40-00SCENE"
   }, 
   {
-    "ext": "tddd,obj", 
+    "ext": [
+      "tddd", 
+      "obj"
+    ], 
     "mime": "", 
     "description": "Imagine 3D object", 
     "fid": "000001252-40-000TDDD"
   }, 
   {
-    "ext": "w3d", 
+    "ext": [
+      "w3d"
+    ], 
     "mime": "", 
     "description": "Shockwave 3D model", 
     "fid": "000001259-40-0000W3D"
   }, 
   {
-    "ext": "wrl", 
+    "ext": [
+      "wrl"
+    ], 
     "mime": "model/vrml", 
     "description": "Virtual Reality modeling language", 
     "fid": "000000001-40-0014772"
   }, 
   {
-    "ext": "xgl", 
+    "ext": [
+      "xgl"
+    ], 
     "mime": "", 
     "description": "XGL 3d model", 
     "fid": "000000000-40-0000XGL"
   }, 
   {
-    "ext": "xie", 
+    "ext": [
+      "xie"
+    ], 
     "mime": "", 
     "description": "Microsoft direct3d 3D model", 
     "fid": "000001001-40-0000XIE"
   }, 
   {
-    "ext": "xsi", 
+    "ext": [
+      "xsi"
+    ], 
     "mime": "", 
     "description": "Softimage 3d model", 
     "fid": "000001321-40-0000XSI"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Kboom archive file", 
     "fid": "000000000-50-0000000"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Context tree weighing (CTW) archive file", 
     "fid": "000100077-50-0000000"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Microsoft LZSS compressed file", 
     "fid": "000001001-50-0000000"
   }, 
   {
-    "ext": "aax", 
+    "ext": [
+      "aax"
+    ], 
     "mime": "", 
     "description": "AAX archive file", 
     "fid": "000001281-50-0000AAX"
   }, 
   {
-    "ext": "abp", 
+    "ext": [
+      "abp"
+    ], 
     "mime": "", 
     "description": "ABComp archive file", 
     "fid": "000001282-50-0000ABP"
   }, 
   {
-    "ext": "ai", 
+    "ext": [
+      "ai"
+    ], 
     "mime": "", 
     "description": "Ai archive file", 
     "fid": "000000000-50-00000AI"
   }, 
   {
-    "ext": "akt", 
+    "ext": [
+      "akt"
+    ], 
     "mime": "", 
     "description": "AKT archive file", 
     "fid": "000000000-50-0000AKT"
   }, 
   {
-    "ext": "amg", 
+    "ext": [
+      "amg"
+    ], 
     "mime": "", 
     "description": "AMG archive file", 
     "fid": "000001284-50-0000AMG"
   }, 
   {
-    "ext": "ar", 
+    "ext": [
+      "ar"
+    ], 
     "mime": "", 
     "description": "UNIX archive file (ar)", 
     "fid": "000000003-50-00000AR"
   }, 
   {
-    "ext": "ar7", 
+    "ext": [
+      "ar7"
+    ], 
     "mime": "", 
     "description": "AR7 archive file", 
     "fid": "000100036-50-0000AR7"
   }, 
   {
-    "ext": "arj", 
+    "ext": [
+      "arj"
+    ], 
     "mime": "", 
     "description": "ARJ archive file", 
     "fid": "000001285-50-0000ARJ"
   }, 
   {
-    "ext": "asd", 
+    "ext": [
+      "asd"
+    ], 
     "mime": "", 
     "description": "ASD archive file", 
     "fid": "000001287-50-0000ASD"
   }, 
   {
-    "ext": "b58", 
+    "ext": [
+      "b58"
+    ], 
     "mime": "", 
     "description": "BOA constrictor archive file", 
     "fid": "000100040-50-0000B58"
   }, 
   {
-    "ext": "bc", 
+    "ext": [
+      "bc"
+    ], 
     "mime": "", 
     "description": "BWC archive file", 
     "fid": "000100042-50-00000BC"
   }, 
   {
-    "ext": "bix", 
+    "ext": [
+      "bix"
+    ], 
     "mime": "", 
     "description": "BIX archive file", 
     "fid": "000100037-50-0000BIX"
   }, 
   {
-    "ext": "boo", 
+    "ext": [
+      "boo"
+    ], 
     "mime": "", 
     "description": "Btoa encoded file", 
     "fid": "000100043-50-0000BOO"
   }, 
   {
-    "ext": "bsn", 
+    "ext": [
+      "bsn"
+    ], 
     "mime": "", 
     "description": "Bsa archive file", 
     "fid": "000001289-50-0000BSN"
   }, 
   {
-    "ext": "btpc", 
+    "ext": [
+      "btpc"
+    ], 
     "mime": "", 
     "description": "BTPC compressed image file", 
     "fid": "000100074-50-000BTPC"
   }, 
   {
-    "ext": "bts", 
+    "ext": [
+      "bts"
+    ], 
     "mime": "", 
     "description": "BTSpk archive file", 
     "fid": "000100044-50-0000BTS"
   }, 
   {
-    "ext": "bz", 
+    "ext": [
+      "bz"
+    ], 
     "mime": "", 
     "description": "Bzip archive file", 
     "fid": "000100008-50-00000BZ"
   }, 
   {
-    "ext": "bz2", 
+    "ext": [
+      "bz2"
+    ], 
     "mime": "", 
     "description": "Bzip2 archive file", 
     "fid": "000100008-50-0000BZ2"
   }, 
   {
-    "ext": "cab", 
+    "ext": [
+      "cab"
+    ], 
     "mime": "", 
     "description": "Microsoft Cabinet file", 
     "fid": "000001001-50-0000CAB"
   }, 
   {
-    "ext": "cru", 
+    "ext": [
+      "cru"
+    ], 
     "mime": "", 
     "description": "Crush archive file", 
     "fid": "000001290-50-0000CRU"
   }, 
   {
-    "ext": "cxf", 
+    "ext": [
+      "cxf"
+    ], 
     "mime": "", 
     "description": "Ctx archive file", 
     "fid": "000100045-50-0000CXF"
   }, 
   {
-    "ext": "dax", 
+    "ext": [
+      "dax"
+    ], 
     "mime": "", 
     "description": "DAX audio archive file", 
     "fid": "000000000-50-0000DAX"
   }, 
   {
-    "ext": "dms", 
+    "ext": [
+      "dms"
+    ], 
     "mime": "", 
     "description": "Diskmasher archive file", 
     "fid": "000000000-50-0000DMS"
   }, 
   {
-    "ext": "dpa", 
+    "ext": [
+      "dpa"
+    ], 
     "mime": "", 
     "description": "Dpae archive file", 
     "fid": "000100046-50-0000DPA"
   }, 
   {
-    "ext": "dst", 
+    "ext": [
+      "dst"
+    ], 
     "mime": "", 
     "description": "Disintegrator archive file", 
     "fid": "000100047-50-0000DST"
   }, 
   {
-    "ext": "enc", 
+    "ext": [
+      "enc"
+    ], 
     "mime": "", 
     "description": "Enhanced compressor archive file", 
     "fid": "000100051-50-0000ENC"
   }, 
   {
-    "ext": "esp", 
+    "ext": [
+      "esp"
+    ], 
     "mime": "", 
     "description": "ESP archive file", 
     "fid": "000100002-50-0000ESP"
   }, 
   {
-    "ext": "f", 
+    "ext": [
+      "f"
+    ], 
     "mime": "", 
     "description": "Freeze archive file, version 1.0", 
     "fid": "000000000-50-000000F"
   }, 
   {
-    "ext": "f", 
+    "ext": [
+      "f"
+    ], 
     "mime": "", 
     "description": "Freeze archive file, version 2.0", 
     "fid": "000000000-50-000000F"
   }, 
   {
-    "ext": "gq", 
+    "ext": [
+      "gq"
+    ], 
     "mime": "", 
     "description": "Qlfc archive file", 
     "fid": "000100055-50-00000GQ"
   }, 
   {
-    "ext": "gz", 
+    "ext": [
+      "gz"
+    ], 
     "mime": "", 
     "description": "Gzip archive file", 
     "fid": "000000002-50-0001952"
   }, 
   {
-    "ext": "ha", 
+    "ext": [
+      "ha"
+    ], 
     "mime": "", 
     "description": "HA archive file", 
     "fid": "000100013-50-00000HA"
   }, 
   {
-    "ext": "hap", 
+    "ext": [
+      "hap"
+    ], 
     "mime": "", 
     "description": "HAP archive file", 
     "fid": "000001291-50-0000HAP"
   }, 
   {
-    "ext": "hpk", 
+    "ext": [
+      "hpk"
+    ], 
     "mime": "", 
     "description": "Hpack archive file", 
     "fid": "000100016-50-0000HPK"
   }, 
   {
-    "ext": "hyp", 
+    "ext": [
+      "hyp"
+    ], 
     "mime": "", 
     "description": "HYP archive file", 
     "fid": "000100056-50-0000HYP"
   }, 
   {
-    "ext": "hyp", 
+    "ext": [
+      "hyp"
+    ], 
     "mime": "", 
     "description": "HYP archive file", 
     "fid": "000100056-50-0000HYP"
   }, 
   {
-    "ext": "imp", 
+    "ext": [
+      "imp"
+    ], 
     "mime": "", 
     "description": "Winimp archive file", 
     "fid": "000001270-50-0000IMP"
   }, 
   {
-    "ext": "jrc", 
+    "ext": [
+      "jrc"
+    ], 
     "mime": "", 
     "description": "JRchive archive file", 
     "fid": "000001263-50-0000JRC"
   }, 
   {
-    "ext": "lg", 
+    "ext": [
+      "lg"
+    ], 
     "mime": "", 
     "description": "Arhangel archive file", 
     "fid": "000100001-50-00000LG"
   }, 
   {
-    "ext": "lim", 
+    "ext": [
+      "lim"
+    ], 
     "mime": "", 
     "description": "Limit archive file", 
     "fid": "000100003-50-0000LIM"
   }, 
   {
-    "ext": "lzo", 
+    "ext": [
+      "lzo"
+    ], 
     "mime": "", 
     "description": "LZOP archive file", 
     "fid": "000100018-50-0000LZO"
   }, 
   {
-    "ext": "lzx", 
+    "ext": [
+      "lzx"
+    ], 
     "mime": "", 
     "description": "LZX archive file", 
     "fid": "000100058-50-0000LZX"
   }, 
   {
-    "ext": "md", 
+    "ext": [
+      "md"
+    ], 
     "mime": "", 
     "description": "Mike Davenport archive file", 
     "fid": "000100004-50-00000MD"
   }, 
   {
-    "ext": "nsk", 
+    "ext": [
+      "nsk"
+    ], 
     "mime": "", 
     "description": "NaShrink archive file", 
     "fid": "000001292-50-0000NSK"
   }, 
   {
-    "ext": "one", 
+    "ext": [
+      "one"
+    ], 
     "mime": "", 
     "description": "Semone archive file", 
     "fid": "000100068-50-0000ONE"
   }, 
   {
-    "ext": "pac", 
+    "ext": [
+      "pac"
+    ], 
     "mime": "", 
     "description": "LPAC audio archive file", 
     "fid": "000100084-50-0000PAC"
   }, 
   {
-    "ext": "pac", 
+    "ext": [
+      "pac"
+    ], 
     "mime": "", 
     "description": "CrossePAC archive file", 
     "fid": "000001262-50-0000PAC"
   }, 
   {
-    "ext": "pmz", 
+    "ext": [
+      "pmz"
+    ], 
     "mime": "", 
     "description": "PPMZ2 archive file", 
     "fid": "000100061-50-0000PMZ"
   }, 
   {
-    "ext": "pp", 
+    "ext": [
+      "pp"
+    ], 
     "mime": "", 
     "description": "Powerpacker archive file", 
     "fid": "000100062-50-00000PP"
   }, 
   {
-    "ext": "pq1", 
+    "ext": [
+      "pq1"
+    ], 
     "mime": "", 
     "description": "PAQ1 archive file", 
     "fid": "000100064-50-0000PQ1"
   }, 
   {
-    "ext": "pq3", 
+    "ext": [
+      "pq3"
+    ], 
     "mime": "", 
     "description": "PAQ3 archive file", 
     "fid": "000100064-50-0000PQ3"
   }, 
   {
-    "ext": "pq6", 
+    "ext": [
+      "pq6"
+    ], 
     "mime": "", 
     "description": "PAQ6 archive file", 
     "fid": "000100064-50-0000PQ6"
   }, 
   {
-    "ext": "psa", 
+    "ext": [
+      "psa"
+    ], 
     "mime": "", 
     "description": "Pretty simple archiver archive file", 
     "fid": "000100065-50-0000PSA"
   }, 
   {
-    "ext": "q", 
+    "ext": [
+      "q"
+    ], 
     "mime": "", 
     "description": "Quantum archive file", 
     "fid": "000001294-50-000000Q"
   }, 
   {
-    "ext": "rar", 
+    "ext": [
+      "rar"
+    ], 
     "mime": "", 
     "description": "RAR archive file", 
     "fid": "000001267-50-0000RAR"
   }, 
   {
-    "ext": "rax", 
+    "ext": [
+      "rax"
+    ], 
     "mime": "", 
     "description": "RAX archive file", 
     "fid": "000001295-50-0000RAX"
   }, 
   {
-    "ext": "rdq", 
+    "ext": [
+      "rdq"
+    ], 
     "mime": "", 
     "description": "Reduq archive file", 
     "fid": "000100066-50-0000RDQ"
   }, 
   {
-    "ext": "rpm", 
+    "ext": [
+      "rpm"
+    ], 
     "mime": "", 
     "description": "RPM archive", 
     "fid": "000000000-50-0000RPM"
   }, 
   {
-    "ext": "rz", 
+    "ext": [
+      "rz"
+    ], 
     "mime": "", 
     "description": "Rzip archive file", 
     "fid": "000100076-50-00000RZ"
   }, 
   {
-    "ext": "sb", 
+    "ext": [
+      "sb"
+    ], 
     "mime": "", 
     "description": "SBX archive file", 
     "fid": "000001297-50-00000SB"
   }, 
   {
-    "ext": "sbc", 
+    "ext": [
+      "sbc"
+    ], 
     "mime": "", 
     "description": "SBC archive file", 
     "fid": "000100067-50-0000SBC"
   }, 
   {
-    "ext": "shk", 
+    "ext": [
+      "shk"
+    ], 
     "mime": "", 
     "description": "Shrinkit/Nulib archive file", 
     "fid": "000100005-50-0000SHK"
   }, 
   {
-    "ext": "shk", 
+    "ext": [
+      "shk"
+    ], 
     "mime": "", 
     "description": "Shrinkit/Nulib archive file", 
     "fid": "000100005-50-0000SHK"
   }, 
   {
-    "ext": "sit", 
+    "ext": [
+      "sit"
+    ], 
     "mime": "", 
     "description": "Stuffit archive file", 
     "fid": "000001272-50-0000SIT"
   }, 
   {
-    "ext": "sit", 
+    "ext": [
+      "sit"
+    ], 
     "mime": "", 
     "description": "Stuffit archive file", 
     "fid": "000001272-50-0000SIT"
   }, 
   {
-    "ext": "sitx", 
+    "ext": [
+      "sitx"
+    ], 
     "mime": "", 
     "description": "Stuffit extended archive file", 
     "fid": "000001272-50-000SITX"
   }, 
   {
-    "ext": "sof", 
+    "ext": [
+      "sof"
+    ], 
     "mime": "", 
     "description": "SOF archive file", 
     "fid": "000000000-50-0000SOF"
   }, 
   {
-    "ext": "spl", 
+    "ext": [
+      "spl"
+    ], 
     "mime": "", 
     "description": "Splint archive file", 
     "fid": "000100006-50-0000SPL"
   }, 
   {
-    "ext": "sqz", 
+    "ext": [
+      "sqz"
+    ], 
     "mime": "", 
     "description": "Sqwez archive file", 
     "fid": "000100014-50-0000SQZ"
   }, 
   {
-    "ext": "sqz", 
+    "ext": [
+      "sqz"
+    ], 
     "mime": "", 
     "description": "Squeeze archive file", 
     "fid": "000100015-50-0000SQZ"
   }, 
   {
-    "ext": "stc", 
+    "ext": [
+      "stc"
+    ], 
     "mime": "", 
     "description": "Stonecracker archive file", 
     "fid": "000100063-50-0000STC"
   }, 
   {
-    "ext": "stc", 
+    "ext": [
+      "stc"
+    ], 
     "mime": "", 
     "description": "Stonecracker archive file", 
     "fid": "000100063-50-0000STC"
   }, 
   {
-    "ext": "stc", 
+    "ext": [
+      "stc"
+    ], 
     "mime": "", 
     "description": "Stonecracker archive file", 
     "fid": "000100063-50-0000STC"
   }, 
   {
-    "ext": "sz", 
+    "ext": [
+      "sz"
+    ], 
     "mime": "", 
     "description": "SZIP archive file", 
     "fid": "000100009-50-00000SZ"
   }, 
   {
-    "ext": "uc2", 
+    "ext": [
+      "uc2"
+    ], 
     "mime": "", 
     "description": "Ultra Compressor archive file", 
     "fid": "000001271-50-0000UC2"
   }, 
   {
-    "ext": "uha", 
+    "ext": [
+      "uha"
+    ], 
     "mime": "", 
     "description": "UHArc archive file", 
     "fid": "000100083-50-0000UHA"
   }, 
   {
-    "ext": "ybs", 
+    "ext": [
+      "ybs"
+    ], 
     "mime": "", 
     "description": "YBS archive file", 
     "fid": "000100071-50-0000YBS"
   }, 
   {
-    "ext": "z", 
+    "ext": [
+      "z"
+    ], 
     "mime": "", 
     "description": "UNIX archive file", 
     "fid": "000000000-50-000000Z"
   }, 
   {
-    "ext": "zip", 
+    "ext": [
+      "zip"
+    ], 
     "mime": "application/zip", 
     "description": "Pkzip archive file", 
     "fid": "000001266-50-0000ZIP"
   }, 
   {
-    "ext": "zoo", 
+    "ext": [
+      "zoo"
+    ], 
     "mime": "", 
     "description": "Zoo archive file", 
     "fid": "000100012-50-0000ZOO"
   }, 
   {
-    "ext": "zz", 
+    "ext": [
+      "zz"
+    ], 
     "mime": "", 
     "description": "ZZip archive file", 
     "fid": "000100007-50-00000ZZ"
   }, 
   {
-    "ext": "com", 
+    "ext": [
+      "com"
+    ], 
     "mime": "", 
     "description": "624 executable compressed file (MS-DOS)", 
     "fid": "000100002-51-0000COM"
   }, 
   {
-    "ext": "com", 
+    "ext": [
+      "com"
+    ], 
     "mime": "", 
     "description": "624 executable compressed file (MS-DOS)", 
     "fid": "000100002-51-0000COM"
   }, 
   {
-    "ext": "chm", 
+    "ext": [
+      "chm"
+    ], 
     "mime": "", 
     "description": "Microsoft compiled hypertext document", 
     "fid": "000001001-60-0000CHM"
   }, 
   {
-    "ext": "doc", 
+    "ext": [
+      "doc"
+    ], 
     "mime": "", 
     "description": "Pagestream document", 
     "fid": "000001268-60-0000DOC"
   }, 
   {
-    "ext": "ftxt", 
+    "ext": [
+      "ftxt"
+    ], 
     "mime": "", 
     "description": "Formatted text interchange file", 
     "fid": "000001010-60-000FTXT"
   }, 
   {
-    "ext": "ftxt", 
+    "ext": [
+      "ftxt"
+    ], 
     "mime": "", 
     "description": "Formatted text interchange file", 
     "fid": "000001010-60-000FTXT"
   }, 
   {
-    "ext": "ftxt", 
+    "ext": [
+      "ftxt"
+    ], 
     "mime": "", 
     "description": "Formatted text interchange file", 
     "fid": "000001010-60-000FTXT"
   }, 
   {
-    "ext": "guide", 
+    "ext": [
+      "guide"
+    ], 
     "mime": "", 
     "description": "AmigaGuide hypertext document", 
     "fid": "000001007-60-00GUIDE"
   }, 
   {
-    "ext": "hlp", 
+    "ext": [
+      "hlp"
+    ], 
     "mime": "", 
     "description": "Microsoft Windows Help file", 
     "fid": "000001001-60-0000HLP"
   }, 
   {
-    "ext": "html,htm", 
+    "ext": [
+      "html", 
+      "htm"
+    ], 
     "mime": "text/html", 
     "description": "HyperText Markup Language document (HTML)", 
     "fid": "000000001-60-0015445"
   }, 
   {
-    "ext": "hyp", 
+    "ext": [
+      "hyp"
+    ], 
     "mime": "", 
     "description": "Atari ST-Guide hypertext document", 
     "fid": "000001006-60-0000HYP"
   }, 
   {
-    "ext": "inf", 
+    "ext": [
+      "inf"
+    ], 
     "mime": "", 
     "description": "OS/2 Guide hypertext document", 
     "fid": "000001009-60-0000INF"
   }, 
   {
-    "ext": "info", 
+    "ext": [
+      "info"
+    ], 
     "mime": "", 
     "description": "GNU Info hypertext document", 
     "fid": "000100010-60-000INFO"
   }, 
   {
-    "ext": "pdf", 
+    "ext": [
+      "pdf"
+    ], 
     "mime": "application/pdf", 
     "description": "Portable document format document file (PDF)", 
     "fid": "000000001-60-0015930"
   }, 
   {
-    "ext": "rtf", 
+    "ext": [
+      "rtf"
+    ], 
     "mime": "text/rtf", 
     "description": "Rich Text Format document", 
     "fid": "000001001-60-0000RTF"
   }, 
   {
-    "ext": "sgml,sgm", 
+    "ext": [
+      "sgml", 
+      "sgm"
+    ], 
     "mime": "text/sgml", 
     "description": "Standard general markup language document (SGML)", 
     "fid": "000000001-60-0008879"
   }, 
   {
-    "ext": "tch", 
+    "ext": [
+      "tch"
+    ], 
     "mime": "", 
     "description": "Turbo C help file", 
     "fid": "000001005-60-0000TCH"
   }, 
   {
-    "ext": "tph", 
+    "ext": [
+      "tph"
+    ], 
     "mime": "", 
     "description": "Borland Pascal help file", 
     "fid": "000001005-60-0000TPH"
   }, 
   {
-    "ext": "tvh", 
+    "ext": [
+      "tvh"
+    ], 
     "mime": "", 
     "description": "Borland Turbo Vision help file", 
     "fid": "000001005-60-0000TVH"
   }, 
   {
-    "ext": "wpd,doc", 
+    "ext": [
+      "wpd", 
+      "doc"
+    ], 
     "mime": "application/vnd.wordperfect", 
     "description": "Wordperfect document", 
     "fid": "000001008-60-0000WPD"
   }, 
   {
-    "ext": "wri", 
+    "ext": [
+      "wri"
+    ], 
     "mime": "", 
     "description": "Microsoft Write document", 
     "fid": "000001001-60-0000WRI"
   }, 
   {
-    "ext": "wri", 
+    "ext": [
+      "wri"
+    ], 
     "mime": "", 
     "description": "Microsoft Write document", 
     "fid": "000001001-60-0000WRI"
   }, 
   {
-    "ext": "bdf", 
+    "ext": [
+      "bdf"
+    ], 
     "mime": "", 
     "description": "Adobe glyph bitmap distribution format font file", 
     "fid": "000001003-70-0000BDF"
   }, 
   {
-    "ext": "c", 
+    "ext": [
+      "c"
+    ], 
     "mime": "", 
     "description": "Deluxe paint multi-colour font file", 
     "fid": "000001010-70-000000C"
   }, 
   {
-    "ext": "flf", 
+    "ext": [
+      "flf"
+    ], 
     "mime": "", 
     "description": "Figlet font file", 
     "fid": "000100122-70-0000FLF"
   }, 
   {
-    "ext": "lib,type", 
+    "ext": [
+      "lib", 
+      "type"
+    ], 
     "mime": "", 
     "description": "Intellifont Scalable Typeface Format  file", 
     "fid": "000001336-70-0000LIB"
   }, 
   {
-    "ext": "m", 
+    "ext": [
+      "m"
+    ], 
     "mime": "", 
     "description": "Deluxe paint mono colour font file", 
     "fid": "000001010-70-000000M"
   }, 
   {
-    "ext": "otf,ttf", 
+    "ext": [
+      "otf", 
+      "ttf"
+    ], 
     "mime": "", 
     "description": "Opentype font file", 
     "fid": "000001001-70-0000TTF"
   }, 
   {
-    "ext": "otf,ttf", 
+    "ext": [
+      "otf", 
+      "ttf"
+    ], 
     "mime": "", 
     "description": "Opentype font file, CFF type", 
     "fid": "000001001-70-0000TTF"
   }, 
   {
-    "ext": "pcf", 
+    "ext": [
+      "pcf"
+    ], 
     "mime": "", 
     "description": "Portable compiled format (PCF) font file", 
     "fid": "000000000-70-0000PCF"
   }, 
   {
-    "ext": "pfa", 
+    "ext": [
+      "pfa"
+    ], 
     "mime": "", 
     "description": "Type 1 font file", 
     "fid": "000000001-70-0009541"
   }, 
   {
-    "ext": "pfa", 
+    "ext": [
+      "pfa"
+    ], 
     "mime": "", 
     "description": "Type 1 font file", 
     "fid": "000000001-70-0009541"
   }, 
   {
-    "ext": "ttf", 
+    "ext": [
+      "ttf"
+    ], 
     "mime": "", 
     "description": "Truetype font file", 
     "fid": "000001002-70-0000TTF"
   }, 
   {
-    "ext": "ttf", 
+    "ext": [
+      "ttf"
+    ], 
     "mime": "", 
     "description": "Truetype font file", 
     "fid": "000001002-70-0000TTF"
   }, 
   {
-    "ext": "afm", 
+    "ext": [
+      "afm"
+    ], 
     "mime": "", 
     "description": "Adobe composite font metrics file", 
     "fid": "000001003-70-0000AFM"
   }, 
   {
-    "ext": "afm", 
+    "ext": [
+      "afm"
+    ], 
     "mime": "", 
     "description": "Adobe font metrics file", 
     "fid": "000001003-70-0000AFM"
   }, 
   {
-    "ext": "afm", 
+    "ext": [
+      "afm"
+    ], 
     "mime": "", 
     "description": "Adobe master font metrics file", 
     "fid": "000001003-70-0000AFM"
   }, 
   {
-    "ext": "pfm", 
+    "ext": [
+      "pfm"
+    ], 
     "mime": "", 
     "description": "Printer Font Metrics file for Type 1 fonts", 
     "fid": "000001001-70-0000PFM"
   }, 
   {
-    "ext": "asf,wma,wmv", 
+    "ext": [
+      "asf", 
+      "wma", 
+      "wmv"
+    ], 
     "mime": "", 
     "description": "Microsoft Advanced Streaming format multimedia file", 
     "fid": "000001001-81-0000ASF"
   }, 
   {
-    "ext": "avi", 
+    "ext": [
+      "avi"
+    ], 
     "mime": "", 
     "description": "Audio-video interleaved movie, little-endian", 
     "fid": "000001001-81-0000AVI"
   }, 
   {
-    "ext": "avi", 
+    "ext": [
+      "avi"
+    ], 
     "mime": "", 
     "description": "Audio-video interleaved movie, big-endian", 
     "fid": "000001001-81-0000AVI"
   }, 
   {
-    "ext": "mpe,mpeg,mpg", 
+    "ext": [
+      "mpe", 
+      "mpeg", 
+      "mpg"
+    ], 
     "mime": "video/mpeg", 
     "description": "MPEG multimedia (audio/video) stream file", 
     "fid": "000000001-81-000MPEG"
   }, 
   {
-    "ext": "mpe,mpeg,mpg", 
+    "ext": [
+      "mpe", 
+      "mpeg", 
+      "mpg"
+    ], 
     "mime": "video/mpeg", 
     "description": "MPEG multimedia (audio/video) stream file", 
     "fid": "000000001-81-000MPEG"
   }, 
   {
-    "ext": "mpe,mpeg,mpg", 
+    "ext": [
+      "mpe", 
+      "mpeg", 
+      "mpg"
+    ], 
     "mime": "video/mpeg", 
     "description": "MPEG multimedia (audio/video) stream file", 
     "fid": "000000001-81-000MPEG"
   }, 
   {
-    "ext": "mv", 
+    "ext": [
+      "mv"
+    ], 
     "mime": "", 
     "description": "Alias/Wavefront movie file", 
     "fid": "000001004-81-00000MV"
   }, 
   {
-    "ext": "ogg", 
+    "ext": [
+      "ogg"
+    ], 
     "mime": "application/ogg", 
     "description": "OGG Multimedia container stream file", 
     "fid": "000000000-81-0000OGG"
   }, 
   {
-    "ext": "rm,ra,rt,rp,rpa", 
+    "ext": [
+      "rm", 
+      "ra", 
+      "rt", 
+      "rp", 
+      "rpa"
+    ], 
     "mime": "", 
     "description": "RealMedia multimedia container stream file", 
     "fid": "000001027-81-00000RM"
   }, 
   {
-    "ext": "swf", 
+    "ext": [
+      "swf"
+    ], 
     "mime": "", 
     "description": "Shockwave Macromedia animation", 
     "fid": "000001259-81-0000SWF"
   }, 
   {
-    "ext": "anim", 
+    "ext": [
+      "anim"
+    ], 
     "mime": "", 
     "description": "Amiga / Sparta software animation", 
     "fid": "000001261-82-000ANIM"
   }, 
   {
-    "ext": "fant", 
+    "ext": [
+      "fant"
+    ], 
     "mime": "", 
     "description": "Fantavision movie", 
     "fid": "000001260-82-000FANT"
   }, 
   {
-    "ext": "mng", 
+    "ext": [
+      "mng"
+    ], 
     "mime": "", 
     "description": "Multi-image network graphics animation file", 
     "fid": "000000000-82-0000MNG"
   }, 
   {
-    "ext": "seq", 
+    "ext": [
+      "seq"
+    ], 
     "mime": "", 
     "description": "Cyberpaint Animation Sequence", 
     "fid": "000000000-82-0000SEQ"
   }, 
   {
-    "ext": "qfx", 
+    "ext": [
+      "qfx"
+    ], 
     "mime": "", 
     "description": "Open financial exchange file (SGML)", 
     "fid": "000000008-91-0000QFX"
   }, 
   {
-    "ext": "crd", 
+    "ext": [
+      "crd"
+    ], 
     "mime": "", 
     "description": "Windows 3.x cardfile", 
     "fid": "000001001-B0-0000CRD"
   }, 
   {
-    "ext": "crd", 
+    "ext": [
+      "crd"
+    ], 
     "mime": "", 
     "description": "Windows NT 3.51 card file", 
     "fid": "000001001-B0-0000CRD"
   }, 
   {
-    "ext": "vcf", 
+    "ext": [
+      "vcf"
+    ], 
     "mime": "", 
     "description": "vCard Business Card file", 
     "fid": "000001015-B0-0000VCF"
   }, 
   {
-    "ext": "cal", 
+    "ext": [
+      "cal"
+    ], 
     "mime": "", 
     "description": "Microsoft windows calendar file", 
     "fid": "000001001-B1-0000CAL"
   }, 
   {
-    "ext": "vcs", 
+    "ext": [
+      "vcs"
+    ], 
     "mime": "", 
     "description": "vCalendar/iCalendar Agenda file", 
     "fid": "000001016-B1-0000VCS"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-32BE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-32BE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-16BE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-32LE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-16LE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-8 encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-16BE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-32LE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file, UTF-16LE encoded", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "xml", 
+    "ext": [
+      "xml"
+    ], 
     "mime": "text/xml", 
     "description": "Extensible Markup language (XML) file", 
     "fid": "000000007-F3-0000XML"
   }, 
   {
-    "ext": "ole", 
+    "ext": [
+      "ole"
+    ], 
     "mime": "", 
     "description": "Microsoft OLE Compound file, big-endian", 
     "fid": "000001001-F4-0000OLE"
   }, 
   {
-    "ext": "ole", 
+    "ext": [
+      "ole"
+    ], 
     "mime": "", 
     "description": "Microsoft OLE Compound file, little-endian", 
     "fid": "000001001-F4-0000OLE"
   }, 
   {
-    "ext": "ppu,ppl,ppo,ppw,ppa,ppt", 
+    "ext": [
+      "ppu", 
+      "ppl", 
+      "ppo", 
+      "ppw", 
+      "ppa", 
+      "ppt"
+    ], 
     "mime": "", 
     "description": "Freepascal unit file", 
     "fid": "000100120-11-0000PPU"
   }, 
   {
-    "ext": "exp", 
+    "ext": [
+      "exp"
+    ], 
     "mime": "", 
     "description": "Javacard API export file", 
     "fid": "000001011-10-0000EXP"
   }, 
   {
-    "ext": "img", 
+    "ext": [
+      "img"
+    ], 
     "mime": "", 
     "description": "Simple ROM filesystem (ROMFS)", 
     "fid": "000100121-0F-0000IMG"
   }, 
   {
-    "ext": "vhd", 
+    "ext": [
+      "vhd"
+    ], 
     "mime": "", 
     "description": "Virtual PC Hard drive", 
     "fid": "000001001-0F-0000VHD"
   }, 
   {
-    "ext": "ps,eps", 
+    "ext": [
+      "ps", 
+      "eps"
+    ], 
     "mime": "application/postscript", 
     "description": "Postscript file", 
     "fid": "000001003-33-00000PS"
   }, 
   {
-    "ext": "rom,fs", 
+    "ext": [
+      "rom", 
+      "fs"
+    ], 
     "mime": "", 
     "description": "eCos ROM Filesystem image (ROMFS)", 
     "fid": "000001338-0F-0000ROM"
   }, 
   {
-    "ext": "cpi", 
+    "ext": [
+      "cpi"
+    ], 
     "mime": "", 
     "description": "MS-DOS code page raster font", 
     "fid": "000001001-70-0000CPI"
   }, 
   {
-    "ext": "", 
+    "ext": [], 
     "mime": "", 
     "description": "Timezone information database file (compiled)", 
     "fid": "000000000-90-0000000"
   }, 
   {
-    "ext": "fon", 
+    "ext": [
+      "fon"
+    ], 
     "mime": "", 
     "description": "Telix phone book", 
     "fid": "000100126-B0-0000FON"
   }, 
   {
-    "ext": "pch", 
+    "ext": [
+      "pch"
+    ], 
     "mime": "", 
     "description": "Microsoft Visual C++ pre-compiled header(s)", 
     "fid": "000001001-90-0000PCH"
   }, 
   {
-    "ext": "pdb", 
+    "ext": [
+      "pdb"
+    ], 
     "mime": "", 
     "description": "Microsoft Visual C++ debug information database", 
     "fid": "000001001-90-0000PDB"
   }, 
   {
-    "ext": "ilk", 
+    "ext": [
+      "ilk"
+    ], 
     "mime": "", 
     "description": "Microsoft Visual C++ linker database", 
     "fid": "000001001-90-0000ILK"

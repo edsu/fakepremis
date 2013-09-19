@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# generates formats.json
+
 import re
 import json
 import urllib
@@ -14,10 +16,15 @@ for line in urllib.urlopen("http://www.magicdb.org/magic.db"):
     m = re.match("^\[(.+)\](.+)$", parts[3])
     f = {}
     for p in m.group(1).split(";"):
-        kv = p.split("=")
-        if len(kv) == 2:
-            f[kv[0]] = kv[1]
+        if not p: continue
+        key, value = p.split("=")
+        if key == "ext":
+            if value:
+                value = value.split(",")
+            else:
+                value = []
+        f[key] = value
     f['description'] = m.group(2)
     formats.append(f)
 
-open("formats.json", "w").write(json.dumps(formats, indent=2))
+print json.dumps(formats, indent=2))
