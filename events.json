@@ -1,0 +1,26 @@
+[
+    "capture",
+    "compression",
+    "creation",
+    "deaccession",
+    "decompression",
+    "decryption",
+    "deletion",
+    "digital signature validation",
+    "fixity check",
+    "ingestion",
+    "message digest calculation",
+    "migration",
+    "normalization",
+    "replication",
+    "validation",
+    "virus check",
+
+    "identifier assignment",
+    "quarantine",
+    "unquarantine",
+    "upacking",
+    "name cleanup",
+    "format identification",
+    "validation"
+]
