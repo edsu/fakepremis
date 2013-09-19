@@ -6,6 +6,11 @@ import config
 import random
 import tweepy
 
+# fakepremis will only tweet this percent of the time which is useful to 
+# inject the appearance of randomness if it is running from cron
+
+LIKELIHOOD = 20 
+
 def premis():
     ev = event()
     fo = format()
@@ -67,4 +72,5 @@ agents = load_json("agents.json")
 fileidagents = load_json("fileidagents.json")
 
 if __name__ == "__main__":
-    tweet(premis())
+    if random.randint(0, 100) <= LIKELIHOOD:
+        tweet(premis())
